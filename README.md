@@ -34,7 +34,6 @@ Here are some ideas to get you started:
     - Python
     - Pull-Stack Developer
     - App (wanna learn)
-    - C/C++
     - Data Science
     - Selenium
     - Crawling
