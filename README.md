@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  
   ## :monkey: MY interest
     - Python
-    - Pull-Stack Developer
+    - Full-Stack Developer
     - App (wanna learn)
     - Data Science
     - Selenium
