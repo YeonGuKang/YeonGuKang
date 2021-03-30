@@ -35,6 +35,8 @@ Here are some ideas to get you started:
     - Full-Stack Developer
     - App (wanna learn)
     - Data Science
+    - Deep learning
+    - NLP
     - Selenium
     - Crawling
     - Silicon Valley
