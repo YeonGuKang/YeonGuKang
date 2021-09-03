@@ -32,6 +32,8 @@ Here are some ideas to get you started:
  
   ## :monkey: MY interest
     - Python
+    - System Trading
+    - Quant
     - Full-Stack Developer
     - App (wanna learn)
     - Data Science
