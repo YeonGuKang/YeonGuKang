@@ -34,13 +34,11 @@ Here are some ideas to get you started:
     - Python
     - System Trading
     - Quant
-    - Full-Stack Developer
-    - App (wanna learn)
     - Data Science
     - Deep learning
+    - GNN
+    - Reinforcement learning
     - NLP
-    - Selenium
-    - Crawling
     - Silicon Valley
     - Cuty Monkey
     - INTERESTING PROJECT !!!! GIVE ME  !!!!
