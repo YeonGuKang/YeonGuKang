@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     - INTERESTING PROJECT !!!! GIVE ME  !!!!
 ### Please Don't be afraid if U wanna contact me :monkey_face:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonGuKang)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonGuKang)](https://github.com/anuraghazra/github-readme-stats) -->
 [![YeonGu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonGuKang&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
